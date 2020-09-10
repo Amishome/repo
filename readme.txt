@@ -5,3 +5,5 @@ test the git status commomd
 
 first modify
 second modify
+
+Creating a new branch is quick.
