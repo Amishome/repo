@@ -13,3 +13,5 @@ Creating a new branch is quick AND simple.
 -- test--no-ff git merge
 
 现在修复bug issue-101
+
+future分支开发一个新功能
